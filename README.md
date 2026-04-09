@@ -1,13 +1,13 @@
-#React Profile Card
+# React Profile Card
 This project is a simple profile card built as part of my internship task.
-##features
--Displays multiple profile cards
--Each profile consists:
-  -name
-  -role
-  -image
-Create using components and props 
-##Technologies used
--react
--jsx
--react
+## Features
+- Displays multiple profile cards  
+- Each profile consists of:
+  - Name  
+  - Role  
+  - Image  
+- Created using React components and props
+## Technologies Used
+- React  
+- JSX  
+- CSS  
